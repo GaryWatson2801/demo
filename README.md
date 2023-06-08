@@ -8,3 +8,5 @@ this can be changed in the browser or in GitHub Desktop
 this contains the simple Python notebook to illustrate several concepts such as APIs, distributions, p-values etc.
 
 I can make changes on my PC - write code; and update to Git through the Desktop
+
+We make changes at the local level and these upload to the online portfolio
