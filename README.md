@@ -3,4 +3,4 @@ Demo Repo
 
 This is a simple demo repository to show students
 
-Modify here and then commit changes
+this can be changed in the browser or in GitHUb Desktop
